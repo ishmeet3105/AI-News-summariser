@@ -1,4 +1,5 @@
 # AI-News-summariser
+visit at: https://darling-kataifi-8b224c.netlify.app/
 📰 Personalized News Digest
 A personalized news aggregation platform built with Bolt.new, Nhost, and n8n, featuring AI-powered summarization and sentiment analysis. This web app allows users to filter news by genre, save articles, and read AI-generated summaries.
 ![image](https://github.com/user-attachments/assets/6b360513-7060-48c1-a0eb-c66c12c8835c)
